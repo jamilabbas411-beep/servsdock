@@ -26,4 +26,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.servsdock.com/sitemap.xml
+Sitemap: https://servsdock.com/sitemap.xml
